@@ -2,7 +2,7 @@
 
 ## Setup and Interaction Instructions
 
-To run the sketch locally, open `index.html` in Google Chrome using Live Server.
+To run the sketch locally, open `index.html` in Google Chrome using Live Server. Run via Google Chrome or GitHub Pages, visit the link provided on the submission page.
 
 **Controls:**
 
