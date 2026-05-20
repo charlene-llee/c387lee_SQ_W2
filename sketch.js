@@ -145,7 +145,7 @@ function drawPlayer() {
 }
 
 function drawFloor() {
-  fill(40, 120, 110); // dark teal
+  fill(40, 120, 110);
   noStroke();
   rect(0, floorY, width, height - floorY);
 }
@@ -164,12 +164,6 @@ function drawPlatform() {
   }
 }
 
-// ------------------------------------------------------------
-// drawHUD()
-// HUD = Heads Up Display.
-// Shows controls on screen so the player always knows
-// how to interact without needing external instructions.
-// ------------------------------------------------------------
 function drawHUD() {
   fill(180);
   noStroke();
