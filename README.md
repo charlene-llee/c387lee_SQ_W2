@@ -19,6 +19,7 @@ The console will show any errors in your sketch.
 ## Assets
 
 | File | Source |
+|------|--------|
 | `assets/images/celestebgIMG.png` | By Namocchi [1] |
 | `assets/images/strawberryIMG.png` | By PNG Play [2] |
 
